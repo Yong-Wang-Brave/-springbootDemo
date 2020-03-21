@@ -1,0 +1,4 @@
+logging:
+  config: course03/logback.xml
+  level:
+    com.itcodai.course03.dao: trace
